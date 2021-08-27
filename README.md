@@ -13,7 +13,6 @@
 
 Token Addresses on C-Chain Avalanche Mainnet:
 
-ZABU Token Address: 0xDd453dBD253fA4E5e745047d93667Ce9DA93bbCF
-Zabu Farm Contract Address: 0xf61b4f980A1F34B55BBF3b2Ef28213Efcc6248C4
-Timelock (Owner of Zabu Farm):
-0xEC9afD2De9ECAC7f8820BEe6f5B80ae614B6D1aa
+1. ZABU Token Address: 0xDd453dBD253fA4E5e745047d93667Ce9DA93bbCF
+2. Zabu Farm Contract Address: 0xf61b4f980A1F34B55BBF3b2Ef28213Efcc6248C4
+3. Timelock (Owner of Zabu Farm): 0xEC9afD2De9ECAC7f8820BEe6f5B80ae614B6D1aa
