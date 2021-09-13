@@ -1,18 +1,13 @@
-# Zabu Finance Farming Contract elements:
+# Zabu Finance Farming V2 Contract elements:
 
-1. Zabu Token
-- Zabu Token Contract is a fork of BAO Token (on Ethereum), with supply capped at 5 billions. All 5 billions was transferred to Zabu Farm for Distribution.
-- Ownership was renounced to 0x0.
+1. Zabu V2 Token - ZUBAX
+- Zabu V2 Token Contract is a fork of BAO Token (on Ethereum), with supply capped at 5 billions.
+- Ownership was set to Zabu Farm V2 Masterchef Contract.
 
-2. Zabu Farm
-- Zabu Farm is a fork of Pancakeswap's Masterchef with some innovations: instead of mint() rewards and send to stakers, it transfer() rewards inside the contract to stakers.
-- Zabu Farm Owner was set to Timelock.
-
-3. Timelock
-- Timelock was set as owner of Zabu Farm contract to make sure all actions are under delay of 12 hours.
+2. Zabu Farm V2 Masterchef
+- Zabu Farm V2 Masterchef is a fork of Pancakeswap's Masterchef with some innovations: withdrawFee and lpsupply to support tax tokens
 
 Token Addresses on C-Chain Avalanche Mainnet:
 
-1. ZABU Token Address: 0xDd453dBD253fA4E5e745047d93667Ce9DA93bbCF
-2. Zabu Farm Contract Address: 0xf61b4f980A1F34B55BBF3b2Ef28213Efcc6248C4
-3. Timelock (Owner of Zabu Farm): 0xEC9afD2De9ECAC7f8820BEe6f5B80ae614B6D1aa
+1. ZUBAX Token Address: 0xbe6D6323eA233fD1DBe1fF66c5252170c69fb6c7
+2. Zabu Farm V2 Contract Address: 0xD929Df68E164d8Bd830fa77a1591d150430CCCf8
